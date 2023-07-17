@@ -1,0 +1,17 @@
+body {
+  background-color: #1d2630;
+  font-family: Arial, Tahoma;
+}
+
+* {
+  box-sizing: border-box;
+  color: #fff;
+}
+
+#update {
+  display: none;
+}
+
+.btn-success {
+  padding: 10px;
+}
